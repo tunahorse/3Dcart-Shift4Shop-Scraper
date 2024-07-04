@@ -73,7 +73,7 @@ You can modify the following variables in the script to customize its behavior:
 
 ## Support
 
-For any issues or questions, please open an issue in the GitHub repository or contact me directly. The documentation for the API is not up to date so most of this was made by trial & error. 
+For any issues or questions, please open an issue or contact me directly. The documentation for the API is not up to date so most of this was made by trial & error, so if you look at the official doc vs this code you will see conflicts. 
 
 ## Disclaimer
 
